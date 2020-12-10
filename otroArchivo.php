@@ -5,4 +5,12 @@
         echo $i+"-<br>";
     }
     echo "Soy otra línea modificada a las 9:10";
+
+    echo "A";
+    echo "B";
+    echo "C";
+    echo "D";
+    echo "E";
+    echo "F";
+
 ?>
